@@ -11,7 +11,7 @@ CNNIBN_Cleaned
 17,052 TIMESNOW_Cleaned 
 39,253
 
-Berikut keterangan feature pada setiap dataset. 
+Berikut keterangan feature pada setiap dataset:
 1 Shot Length 
 2-3 Motion Distribution( Mean and Variance) 
 4-5 Frame Difference Distribution ( Mean and Variance)
